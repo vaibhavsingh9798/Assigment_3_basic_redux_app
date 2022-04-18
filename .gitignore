@@ -4,6 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+/.compnents
+/components
+/.Pages
+/Pages
+/MUI
+/.MUI
 
 # testing
 /coverage

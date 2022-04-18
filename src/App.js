@@ -1,13 +1,15 @@
+import MovieApp from "./component/MovieApp";
 
-import './App.css';
-import A from './components/A';
 
-function App() {
-  return (
-    <div>
-   <A/>   
-    </div>
-  );
-}
 
-export default App;
+  const App = () =>{
+  
+   
+    return(
+         <>
+         <MovieApp />
+         </>
+    );
+  }
+
+  export default App;
